@@ -34,9 +34,11 @@ const createFooter = () => {
         </div>
     </div>
     <p class="footer-title">about company</p>
-    <p class="info">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellat tempore ad suscipit, eos eius quisquam sed optio nisi quaerat fugiat ratione et vero maxime praesentium, architecto minima reiciendis iste quo deserunt assumenda alias ducimus. Ullam odit maxime id voluptates rerum tenetur corporis laboriosam! Cum error ipsum laborum tempore in rerum necessitatibus nostrum nobis modi! Debitis adipisci illum nemo aperiam sed, et accusamus ut officiis. Laborum illo exercitationem quo culpa reprehenderit excepturi distinctio tempore cupiditate praesentium nisi ut iusto, assumenda perferendis facilis voluptas autem fuga sunt ab debitis voluptatum harum eum. Asperiores, natus! Est deserunt incidunt quasi placeat omnis, itaque harum?</p>
+    <p class="info">Clothing Company: The company was founded in 1975  in Brande, Denmark. Originally its focus was on women's fashion. It introduced children's clothing in 1986 and men's wear in 1988.</p>
+    <p class="info">They start markiting thier products in Middle East across their first Arabian branch in Syria in 2000,</p>
     <p class="info">support emails - help@clothing.com, customersupport@clothing.com</p>
-    <p class="info">telephone - 180 00 00 001, 180 00 00 002</p>
+    <p class="info">Adress: Syria, Aleppo, Alliramoon.</p>
+    <p class="info">telephone - 00963 21 231247</p>
     <div class="footer-social-container">
         <div>
             <a href="#" class="social-link">terms & services</a>
